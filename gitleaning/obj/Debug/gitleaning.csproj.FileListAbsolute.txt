@@ -5,3 +5,10 @@ C:\Users\tutai\source\repos\gitleaning\gitleaning\obj\Debug\gitleaning.csprojAss
 C:\Users\tutai\source\repos\gitleaning\gitleaning\obj\Debug\gitleaning.csproj.CoreCompileInputs.cache
 C:\Users\tutai\source\repos\gitleaning\gitleaning\obj\Debug\gitleaning.exe
 C:\Users\tutai\source\repos\gitleaning\gitleaning\obj\Debug\gitleaning.pdb
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\bin\Debug\gitleaning.exe.config
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\bin\Debug\gitleaning.exe
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\bin\Debug\gitleaning.pdb
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\obj\Debug\gitleaning.csprojAssemblyReference.cache
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\obj\Debug\gitleaning.csproj.CoreCompileInputs.cache
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\obj\Debug\gitleaning.exe
+C:\Users\tutai\OneDrive\Documents\gitleaning\gitleaning\gitleaning\obj\Debug\gitleaning.pdb
